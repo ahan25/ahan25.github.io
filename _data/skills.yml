@@ -1,19 +1,7 @@
-- name: Engineer Keywords
+- name: Petrolume Engineer Keywords
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - 石油地质
+      - 实验地质
+      - 页岩油气
+      - 非常规油气地质
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
