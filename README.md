@@ -28,8 +28,6 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
    网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 title、subtitle 和 Disqus 的用户名等。
 
-   **注意：** 因为 Disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的。我对该缺陷的记录见 [Issues#2][3]。
-
 4. 删除我的文章与图片。
 
    如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
@@ -47,4 +45,4 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](http://dongchuan.github.io) 和[ mzlogin](http://mzlogin.github.io)修改，感谢！
+本博客外观基于 [ mzlogin](http://mzlogin.github.io)修改，感谢！
