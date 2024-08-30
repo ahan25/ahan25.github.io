@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://ahan25.com
+url: http://geosd.cn
 date_format: "ordinal"
 title: Money's Back Yard
 subtitle: "你选择做或者是不做，但不做就永远没有机会"
@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: ahan25
-organization: ahan25.com
-organization_url: http://www.ahan25.com
+organization: geosd.cn
+organization_url: http://www.geosd.cn
 github_username: ahan25
 location: Wuxi, China
 email: ahan25@163.com
